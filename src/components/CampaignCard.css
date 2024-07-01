@@ -1,0 +1,12 @@
+.CampaignCard {
+    background-color: cornflowerblue;
+    border: 1px white;
+    min-height: 250px;
+    min-width: 350px;
+}
+
+.campaignCardTitle {
+    font-weight: bold;
+    color: black;
+
+}
